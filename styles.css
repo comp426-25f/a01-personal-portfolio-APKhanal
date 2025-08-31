@@ -51,11 +51,12 @@ a{
 }
 .pfp{
     max-width: 30%;
-    border-radius: 10%;
+    border-radius: 80%;
+    border: 10px solid rgb(96, 175, 138);
 }
 .About{
     padding: 5%;
-    border: 3px rgb(32, 120, 82) solid;
+    border: 3px rgb(123, 242, 190) solid;
     background-color: rgb(61, 120, 106);
     border-radius: 40px;
     align-content:center;
@@ -129,4 +130,8 @@ a{
     padding: 10px;
     border-radius: 10px;
     
+}
+
+.about-info{
+    color:rgb(213, 247, 255)
 }
